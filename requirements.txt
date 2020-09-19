@@ -1,0 +1,6 @@
+bs4==0.0.1
+pyunpack==0.2.1
+pathlib==1.0.1
+patool==1.12
+requests==2.24.0
+gdown==3.12.2
