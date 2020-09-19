@@ -25,7 +25,7 @@ Replace it with: url = "Your Link Here"
 
 # Installation
 1. Download Python 3.5.2 from https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64-webinstall.exe
-2. During the setup, please MAKE SURE to add to TICK the box that says "Add to PATH"
+2. During the setup, please MAKE SURE to TICK the box that says "Add to PATH"
 3. Download this repository
 4. Move all the files in this repository into the folder where you would like to download the game to
 5. Specify the game you would like to download by specifying the IGG-Games link. Read more : # How do you specify the IGG-GAMES link that you would like to download?
