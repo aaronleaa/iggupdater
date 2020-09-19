@@ -21,7 +21,7 @@ If the game you are trying to download is not uploaded in .rar (WINRAR), it woul
 # How do you specify the IGG-GAMES link that you would like to download?
 Right click update.py, and click Edit with IDLE. 32-bit and 64-bit are both fine.
 Find this line: url = "https://igg-games.com/among-us-free-download.html"
-Replace it with: url = "<Your Link Here>"
+Replace it with: url = "Your Link Here"
 
 # Installation
 1. Download Python 3.5.2 from https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64-webinstall.exe
